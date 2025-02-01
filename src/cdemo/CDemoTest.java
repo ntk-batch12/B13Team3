@@ -1,6 +1,7 @@
 package cdemo;
 
 public class CDemoTest {
+			//Zaid added instance variables and static variables. 
 			// instance variable
 			public String firstName = "Zaid";
 			private String lastName = "David";
@@ -26,6 +27,24 @@ public class CDemoTest {
 		int b = 22;
 
 		System.out.println(a + b);
+
+		
+		System.out.println(lastname);
+		
+		
+		int examOne = 85;
+		int examTwo = 90;
+		
+		if (examOne > examTwo) {
+			System.out.println("examOne score is higher");
+		}else if (examOne < examTwo) {
+			System.out.println("examTwo score is higher");
+		} else if ( examOne == examTwo) {
+			System.out.println("Both exam score is same");	
+		}
+		
+		//Eliana Tolosa
+
 	}
 // Try a new comment //
 
