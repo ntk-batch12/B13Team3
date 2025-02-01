@@ -12,7 +12,10 @@ public class CDemoTest {
 		System.out.println(lastname);
 		
 		
-
+           int a = 20;
+           int b = 22;
+           
+           System.out.println(a+b);
 	}
 // Try a new comment //
        
