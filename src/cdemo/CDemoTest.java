@@ -15,8 +15,6 @@ public class CDemoTest {
 		int examOne = 85;
 		int examTwo = 90;
 		
-		
-		
 		if (examOne > examTwo) {
 			System.out.println("examOne score is higher");
 		}else if (examOne < examTwo) {
@@ -26,8 +24,6 @@ public class CDemoTest {
 		}
 		
 		
-	// comment
-
 	}
 // Try a new comment //
 	
