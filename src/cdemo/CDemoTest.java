@@ -12,6 +12,8 @@ public class CDemoTest {
 		int b = 25;
 		
 		System.out.println(a + b);
+
+		//add new method
 	}
 	
 }
