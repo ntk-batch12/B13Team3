@@ -14,7 +14,15 @@ public class CDemoTest {
 			protected static boolean isCitizen = true;
 			double salary = 1111.11;
 		
-
+			
+			//Zaid added new Method and called the instance variables 
+		public void getInfo (String firstName, String lastName, char gender) {
+			this.firstName = firstName; 
+			this.lastName = lastName; 
+			this.gender = gender; 
+			this.id = id; 
+			
+		}
 	public static void main(String[] args) {
 		System.out.println("Team 3");
 
