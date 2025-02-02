@@ -62,7 +62,10 @@ public class CDemoTest {
 		System.out.println("Sabir");
 		
 		
+		String lastname = "omar";
+		String firstName = "Sabir";
+		
     }
 // Try a new comment //
-
+	
 }
