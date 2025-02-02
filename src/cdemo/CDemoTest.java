@@ -60,6 +60,27 @@ public class CDemoTest {
 			System.out.println(i);
 		} 
 		
+           
+         //Third commit (Eliana Tolosa)   
+           for (int i = 1; i <=100; i++) {
+   			
+   			System.out.println(i);
+   			
+   			if (i == 55) {
+   				break;
+           
+   			}
+   			
+   		//Fourth commit (Eliana Tolosa)   	
+   			
+   			int y = 5;
+   			do {
+   				System.out.println(y);
+   				y++;
+   				
+   			}while (y <= 0);
+   			
+           }
 
 	}
 	// Sabir omar
