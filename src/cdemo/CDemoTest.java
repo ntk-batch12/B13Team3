@@ -54,6 +54,15 @@ public class CDemoTest {
 		
 
 	}
+	// Sabir omar
+	
+	public void num(int age , String name) {
+ 	   
+		System.out.println(22);
+		System.out.println("Sabir");
+		
+		
+    }
 // Try a new comment //
 
 }
