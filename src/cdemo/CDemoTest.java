@@ -94,7 +94,17 @@ public class CDemoTest {
 		String lastname = "omar";
 		String firstName = "Sabir";
 		
+		
+		int c = 5;
+			do {
+				System.out.println(c);
+				c++;
+				
+			}while (c <= 0);
+		
     }
+	
+	
 // Try a new comment //
 	
 }
